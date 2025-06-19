@@ -1,4 +1,4 @@
-# Chapter 10: The rasterdiv package for measuring diversity from space
+# Chapter: The rasterdiv package for measuring diversity from space
 
 Author: Matteo Marcantonio  
 Date: 2025-06-18  
