@@ -8,7 +8,7 @@ Contact: marcantoniomatteo@gmail.com
 
 ## Overview
 
-This repository contains the R script and data organisation needed to reproduce all analyses and figures (03–08) in Chapter 10. We apply the rasterdiv package to:
+This repository contains the R script and data organisation needed to reproduce all analyses and figures (03–08) in Chapter. We apply the rasterdiv package to:
 
 - Stebbins Cold Canyon (CA, USA) — NAIP CIR imagery  
 - Macchiarvana (IT) — PlanetScope NDVI time series  
